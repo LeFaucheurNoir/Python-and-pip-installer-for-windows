@@ -1,6 +1,9 @@
 # Python-and-pip-installer-for-windows
-A zip for download python and pip for python library download with just one installer !
+A folder for download python and pip for python library download with just one installer !
 
-lien for download just python
+just python installer folder for download just python and launch the installer.bat in the file
 
-lien for download just pip (for download pip you need python)
+just pip installer folder for download just pip (for download pip you need python) and launch the installer.bat in the file
+
+
+!!! ATTENTION THIS IS JUST FOR WINDOWS BECAUSE IT USE WINDOWS COMMANDS FOR ALL !!!

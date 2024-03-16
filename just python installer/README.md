@@ -1,0 +1,1 @@
+Launch installer.bat for download python, launch uninstaller.bat for uninstall python !

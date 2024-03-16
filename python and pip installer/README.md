@@ -1,0 +1,1 @@
+Launch installer.bat for download all, launch uninstaller.bat for uninstall everything !
